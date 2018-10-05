@@ -319,7 +319,6 @@ Ahora deberíamos poder ver todo en nuestro repositorio en la web
 [https://github.com/dpzaba/git101-es-example-to-fix-collaboratively](https://github.com/dpzaba/git101-es-example-to-fix-collaboratively)
 
 - `cd ~/probando-git/`
-- Clona el repositorio
 - Crea una rama
 - Corrige una errata, añádelo a Git, haz commit y push
 - Vete a Github y crea una Pull Request
