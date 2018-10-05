@@ -161,7 +161,7 @@ Añadimos el fichero al repositorio
 
 
 ```
-git add un-fichero.txt
+git add otro-fichero.txt
 ```
 
 
