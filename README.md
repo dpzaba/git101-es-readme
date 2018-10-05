@@ -29,10 +29,8 @@
 - Además también ofrecen:
   - Interfaz web para ver el trabajo hecho en Git
   - Merge Requests / Pull Requests
-  - Notificaciones con menciones directas o a equipos
-  - Visualizar documentos Markdown
   - Issues
-  - Wiki, página web, ver seguidores, seguidos, estrellas (likes), etc.
+  - Visualizar documentos Markdown, notificaciones, wiki, página web, ver seguidores, estrellas, etc.
 
 ## 3. Git en funcionamiento con ejemplos (modo hacker)
 
