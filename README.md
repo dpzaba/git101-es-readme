@@ -231,8 +231,6 @@ git log
 cd ~/probando-git/3-3-ejemplo/
 ```
 
-> Clonamos el repositorio del apartado anterior para añadir un nuevo concepto y no mezclar cosas.
-
 Con `git status` veíamos la rama y estado en el que tenemos nuestro repositorio, pero también nos puede interesar saber todas las ramas que tiene nuestro proyecto.
 
 `git branch`
