@@ -231,7 +231,11 @@ cd ~/probando-git/3-3-ejemplo/
 
 Con `git status` veíamos la rama y estado en el que tenemos nuestro repositorio, pero también nos puede interesar saber todas las ramas que tiene nuestro proyecto.
 
-`git branch`
+
+```
+git branch
+```
+
 
 > ¿Qué ves?
 
